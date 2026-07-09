@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/yash23082007/leetcode/tree/master/0205-isomorphic-strings) |
 | [0680-valid-palindrome-ii](https://github.com/yash23082007/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0796-rotate-string](https://github.com/yash23082007/leetcode/tree/master/0796-rotate-string) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/yash23082007/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/yash23082007/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/yash23082007/leetcode/tree/master/1957-delete-characters-to-make-fancy-string) |
 ## Greedy
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/yash23082007/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0853-car-fleet](https://github.com/yash23082007/leetcode/tree/master/0853-car-fleet) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/yash23082007/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Sorting
 |  |
 | ------- |
