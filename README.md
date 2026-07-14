@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/yash23082007/leetcode/tree/master/0611-valid-triangle-number) |
 | [0705-design-hashset](https://github.com/yash23082007/leetcode/tree/master/0705-design-hashset) |
 | [0853-car-fleet](https://github.com/yash23082007/leetcode/tree/master/0853-car-fleet) |
+| [0896-monotonic-array](https://github.com/yash23082007/leetcode/tree/master/0896-monotonic-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/yash23082007/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0994-rotting-oranges](https://github.com/yash23082007/leetcode/tree/master/0994-rotting-oranges) |
 | [1331-rank-transform-of-an-array](https://github.com/yash23082007/leetcode/tree/master/1331-rank-transform-of-an-array) |
