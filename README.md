@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yash23082007/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/yash23082007/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/yash23082007/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0367-valid-perfect-square](https://github.com/yash23082007/leetcode/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/yash23082007/leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0611-valid-triangle-number](https://github.com/yash23082007/leetcode/tree/master/0611-valid-triangle-number) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/yash23082007/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/yash23082007/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0326-power-of-three](https://github.com/yash23082007/leetcode/tree/master/0326-power-of-three) |
+| [0367-valid-perfect-square](https://github.com/yash23082007/leetcode/tree/master/0367-valid-perfect-square) |
 | [1025-divisor-game](https://github.com/yash23082007/leetcode/tree/master/1025-divisor-game) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/yash23082007/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/yash23082007/leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
