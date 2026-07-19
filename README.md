@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/yash23082007/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0231-power-of-two](https://github.com/yash23082007/leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/yash23082007/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/yash23082007/leetcode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/yash23082007/leetcode/tree/master/0367-valid-perfect-square) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/yash23082007/leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0231-power-of-two](https://github.com/yash23082007/leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/yash23082007/leetcode/tree/master/0342-power-of-four) |
 ## String Matching
 |  |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/yash23082007/leetcode/tree/master/0203-remove-linked-list-elements) |
+| [0231-power-of-two](https://github.com/yash23082007/leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/yash23082007/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/yash23082007/leetcode/tree/master/0342-power-of-four) |
 ## Binary Search Tree
