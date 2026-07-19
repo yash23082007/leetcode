@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/yash23082007/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/yash23082007/leetcode/tree/master/0414-third-maximum-number) |
 | [0463-island-perimeter](https://github.com/yash23082007/leetcode/tree/master/0463-island-perimeter) |
+| [0575-distribute-candies](https://github.com/yash23082007/leetcode/tree/master/0575-distribute-candies) |
 | [0611-valid-triangle-number](https://github.com/yash23082007/leetcode/tree/master/0611-valid-triangle-number) |
 | [0705-design-hashset](https://github.com/yash23082007/leetcode/tree/master/0705-design-hashset) |
 | [0853-car-fleet](https://github.com/yash23082007/leetcode/tree/master/0853-car-fleet) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/yash23082007/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/yash23082007/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/yash23082007/leetcode/tree/master/0383-ransom-note) |
+| [0575-distribute-candies](https://github.com/yash23082007/leetcode/tree/master/0575-distribute-candies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/yash23082007/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0705-design-hashset](https://github.com/yash23082007/leetcode/tree/master/0705-design-hashset) |
 | [1331-rank-transform-of-an-array](https://github.com/yash23082007/leetcode/tree/master/1331-rank-transform-of-an-array) |
