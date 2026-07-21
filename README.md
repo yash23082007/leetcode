@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/yash23082007/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0994-rotting-oranges](https://github.com/yash23082007/leetcode/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/yash23082007/leetcode/tree/master/1260-shift-2d-grid) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/yash23082007/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1331-rank-transform-of-an-array](https://github.com/yash23082007/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/yash23082007/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/yash23082007/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-divisor-game](https://github.com/yash23082007/leetcode/tree/master/1025-divisor-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/yash23082007/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1154-day-of-the-year](https://github.com/yash23082007/leetcode/tree/master/1154-day-of-the-year) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/yash23082007/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/yash23082007/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/yash23082007/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/yash23082007/leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
