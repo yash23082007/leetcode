@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/yash23082007/leetcode/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/yash23082007/leetcode/tree/master/0058-length-of-last-word) |
 | [0179-largest-number](https://github.com/yash23082007/leetcode/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/yash23082007/leetcode/tree/master/0205-isomorphic-strings) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/yash23082007/leetcode/tree/master/0043-multiply-strings) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/yash23082007/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/yash23082007/leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/yash23082007/leetcode/tree/master/0326-power-of-three) |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/yash23082007/leetcode/tree/master/0043-multiply-strings) |
 | [1260-shift-2d-grid](https://github.com/yash23082007/leetcode/tree/master/1260-shift-2d-grid) |
 | [2073-time-needed-to-buy-tickets](https://github.com/yash23082007/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/yash23082007/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
