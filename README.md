@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/yash23082007/leetcode/tree/master/0179-largest-number) |
 | [0324-wiggle-sort-ii](https://github.com/yash23082007/leetcode/tree/master/0324-wiggle-sort-ii) |
 | [0611-valid-triangle-number](https://github.com/yash23082007/leetcode/tree/master/0611-valid-triangle-number) |
+| [0670-maximum-swap](https://github.com/yash23082007/leetcode/tree/master/0670-maximum-swap) |
 | [0680-valid-palindrome-ii](https://github.com/yash23082007/leetcode/tree/master/0680-valid-palindrome-ii) |
 ## Binary Search
 |  |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/yash23082007/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/yash23082007/leetcode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/yash23082007/leetcode/tree/master/0367-valid-perfect-square) |
+| [0670-maximum-swap](https://github.com/yash23082007/leetcode/tree/master/0670-maximum-swap) |
 | [1025-divisor-game](https://github.com/yash23082007/leetcode/tree/master/1025-divisor-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/yash23082007/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1154-day-of-the-year](https://github.com/yash23082007/leetcode/tree/master/1154-day-of-the-year) |
