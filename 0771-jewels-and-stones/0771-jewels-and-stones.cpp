@@ -11,7 +11,7 @@ public:
 
                 if (stones[i] == jewels[j]) {
                     count++;
-                    break;
+                    
                 }
             }
         }
