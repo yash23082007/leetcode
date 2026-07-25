@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/yash23082007/leetcode/tree/master/0463-island-perimeter) |
 | [0575-distribute-candies](https://github.com/yash23082007/leetcode/tree/master/0575-distribute-candies) |
 | [0611-valid-triangle-number](https://github.com/yash23082007/leetcode/tree/master/0611-valid-triangle-number) |
+| [0643-maximum-average-subarray-i](https://github.com/yash23082007/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0705-design-hashset](https://github.com/yash23082007/leetcode/tree/master/0705-design-hashset) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/yash23082007/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0853-car-fleet](https://github.com/yash23082007/leetcode/tree/master/0853-car-fleet) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/yash23082007/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0643-maximum-average-subarray-i](https://github.com/yash23082007/leetcode/tree/master/0643-maximum-average-subarray-i) |
 ## Math
 |  |
 | ------- |
