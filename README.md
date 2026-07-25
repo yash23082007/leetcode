@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/yash23082007/leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/yash23082007/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/yash23082007/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
+| [2643-row-with-maximum-ones](https://github.com/yash23082007/leetcode/tree/master/2643-row-with-maximum-ones) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/yash23082007/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
 |  |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/yash23082007/leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/yash23082007/leetcode/tree/master/1672-richest-customer-wealth) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/yash23082007/leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2643-row-with-maximum-ones](https://github.com/yash23082007/leetcode/tree/master/2643-row-with-maximum-ones) |
 ## Divide and Conquer
 |  |
 | ------- |
