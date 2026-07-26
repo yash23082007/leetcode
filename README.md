@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/yash23082007/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/yash23082007/leetcode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/yash23082007/leetcode/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yash23082007/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/yash23082007/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/yash23082007/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/yash23082007/leetcode/tree/master/0043-multiply-strings) |
+| [0069-sqrtx](https://github.com/yash23082007/leetcode/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/yash23082007/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0227-basic-calculator-ii](https://github.com/yash23082007/leetcode/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/yash23082007/leetcode/tree/master/0231-power-of-two) |
