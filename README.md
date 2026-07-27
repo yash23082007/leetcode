@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/yash23082007/leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/yash23082007/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/yash23082007/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
+| [2109-adding-spaces-to-a-string](https://github.com/yash23082007/leetcode/tree/master/2109-adding-spaces-to-a-string) |
 | [2643-row-with-maximum-ones](https://github.com/yash23082007/leetcode/tree/master/2643-row-with-maximum-ones) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/yash23082007/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/yash23082007/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0905-sort-array-by-parity](https://github.com/yash23082007/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/yash23082007/leetcode/tree/master/0922-sort-array-by-parity-ii) |
+| [2109-adding-spaces-to-a-string](https://github.com/yash23082007/leetcode/tree/master/2109-adding-spaces-to-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/yash23082007/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/yash23082007/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/yash23082007/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/yash23082007/leetcode/tree/master/1957-delete-characters-to-make-fancy-string) |
+| [2109-adding-spaces-to-a-string](https://github.com/yash23082007/leetcode/tree/master/2109-adding-spaces-to-a-string) |
 ## Greedy
 |  |
 | ------- |
@@ -287,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/yash23082007/leetcode/tree/master/0043-multiply-strings) |
 | [1260-shift-2d-grid](https://github.com/yash23082007/leetcode/tree/master/1260-shift-2d-grid) |
 | [2073-time-needed-to-buy-tickets](https://github.com/yash23082007/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
+| [2109-adding-spaces-to-a-string](https://github.com/yash23082007/leetcode/tree/master/2109-adding-spaces-to-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/yash23082007/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
 |  |
