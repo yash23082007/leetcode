@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/yash23082007/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/yash23082007/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0994-rotting-oranges](https://github.com/yash23082007/leetcode/tree/master/0994-rotting-oranges) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/yash23082007/leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1207-unique-number-of-occurrences](https://github.com/yash23082007/leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1260-shift-2d-grid](https://github.com/yash23082007/leetcode/tree/master/1260-shift-2d-grid) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/yash23082007/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/yash23082007/leetcode/tree/master/0611-valid-triangle-number) |
 | [0670-maximum-swap](https://github.com/yash23082007/leetcode/tree/master/0670-maximum-swap) |
 | [0680-valid-palindrome-ii](https://github.com/yash23082007/leetcode/tree/master/0680-valid-palindrome-ii) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/yash23082007/leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 ## Binary Search
 |  |
 | ------- |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-car-fleet](https://github.com/yash23082007/leetcode/tree/master/0853-car-fleet) |
 | [0905-sort-array-by-parity](https://github.com/yash23082007/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/yash23082007/leetcode/tree/master/0922-sort-array-by-parity-ii) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/yash23082007/leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1331-rank-transform-of-an-array](https://github.com/yash23082007/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/yash23082007/leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/yash23082007/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
