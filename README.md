@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/yash23082007/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/yash23082007/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/yash23082007/leetcode/tree/master/0226-invert-binary-tree) |
+| [0617-merge-two-binary-trees](https://github.com/yash23082007/leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/yash23082007/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/yash23082007/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/yash23082007/leetcode/tree/master/1325-delete-leaves-with-a-given-value) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/yash23082007/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/yash23082007/leetcode/tree/master/0226-invert-binary-tree) |
 | [0463-island-perimeter](https://github.com/yash23082007/leetcode/tree/master/0463-island-perimeter) |
+| [0617-merge-two-binary-trees](https://github.com/yash23082007/leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/yash23082007/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/yash23082007/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/yash23082007/leetcode/tree/master/1325-delete-leaves-with-a-given-value) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/yash23082007/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/yash23082007/leetcode/tree/master/0226-invert-binary-tree) |
 | [0463-island-perimeter](https://github.com/yash23082007/leetcode/tree/master/0463-island-perimeter) |
+| [0617-merge-two-binary-trees](https://github.com/yash23082007/leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/yash23082007/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/yash23082007/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0994-rotting-oranges](https://github.com/yash23082007/leetcode/tree/master/0994-rotting-oranges) |
@@ -217,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/yash23082007/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/yash23082007/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/yash23082007/leetcode/tree/master/0226-invert-binary-tree) |
+| [0617-merge-two-binary-trees](https://github.com/yash23082007/leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/yash23082007/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/yash23082007/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/yash23082007/leetcode/tree/master/1325-delete-leaves-with-a-given-value) |
