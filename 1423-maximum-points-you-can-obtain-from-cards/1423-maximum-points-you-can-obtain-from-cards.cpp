@@ -19,3 +19,4 @@ public:
 
         
 };
+//this is a simple window sliding problem intializing a k size window from front first
