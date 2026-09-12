@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/yash23082007/leetcode/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/yash23082007/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/yash23082007/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0754-reach-a-number](https://github.com/yash23082007/leetcode/tree/master/0754-reach-a-number) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/yash23082007/leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/yash23082007/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/yash23082007/leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/yash23082007/leetcode/tree/master/0441-arranging-coins) |
 | [0628-maximum-product-of-three-numbers](https://github.com/yash23082007/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0670-maximum-swap](https://github.com/yash23082007/leetcode/tree/master/0670-maximum-swap) |
+| [0754-reach-a-number](https://github.com/yash23082007/leetcode/tree/master/0754-reach-a-number) |
 | [1025-divisor-game](https://github.com/yash23082007/leetcode/tree/master/1025-divisor-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/yash23082007/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1154-day-of-the-year](https://github.com/yash23082007/leetcode/tree/master/1154-day-of-the-year) |
