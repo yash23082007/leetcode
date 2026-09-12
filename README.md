@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/yash23082007/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/yash23082007/leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/yash23082007/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
+| [2079-watering-plants](https://github.com/yash23082007/leetcode/tree/master/2079-watering-plants) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/yash23082007/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/yash23082007/leetcode/tree/master/2109-adding-spaces-to-a-string) |
 | [2303-calculate-amount-paid-in-taxes](https://github.com/yash23082007/leetcode/tree/master/2303-calculate-amount-paid-in-taxes) |
@@ -355,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/yash23082007/leetcode/tree/master/1260-shift-2d-grid) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/yash23082007/leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/yash23082007/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
+| [2079-watering-plants](https://github.com/yash23082007/leetcode/tree/master/2079-watering-plants) |
 | [2109-adding-spaces-to-a-string](https://github.com/yash23082007/leetcode/tree/master/2109-adding-spaces-to-a-string) |
 | [2303-calculate-amount-paid-in-taxes](https://github.com/yash23082007/leetcode/tree/master/2303-calculate-amount-paid-in-taxes) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/yash23082007/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
