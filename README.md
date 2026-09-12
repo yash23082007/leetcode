@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/yash23082007/leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1144-decrease-elements-to-make-array-zigzag](https://github.com/yash23082007/leetcode/tree/master/1144-decrease-elements-to-make-array-zigzag) |
 | [1207-unique-number-of-occurrences](https://github.com/yash23082007/leetcode/tree/master/1207-unique-number-of-occurrences) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/yash23082007/leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1260-shift-2d-grid](https://github.com/yash23082007/leetcode/tree/master/1260-shift-2d-grid) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/yash23082007/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1331-rank-transform-of-an-array](https://github.com/yash23082007/leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/yash23082007/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/yash23082007/leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1144-decrease-elements-to-make-array-zigzag](https://github.com/yash23082007/leetcode/tree/master/1144-decrease-elements-to-make-array-zigzag) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/yash23082007/leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/yash23082007/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Binary Search
 |  |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-divisor-game](https://github.com/yash23082007/leetcode/tree/master/1025-divisor-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/yash23082007/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1154-day-of-the-year](https://github.com/yash23082007/leetcode/tree/master/1154-day-of-the-year) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/yash23082007/leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/yash23082007/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1492-the-kth-factor-of-n](https://github.com/yash23082007/leetcode/tree/master/1492-the-kth-factor-of-n) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/yash23082007/leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
