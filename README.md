@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/yash23082007/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yash23082007/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/yash23082007/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0392-is-subsequence](https://github.com/yash23082007/leetcode/tree/master/0392-is-subsequence) |
 | [0611-valid-triangle-number](https://github.com/yash23082007/leetcode/tree/master/0611-valid-triangle-number) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/yash23082007/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0658-find-k-closest-elements](https://github.com/yash23082007/leetcode/tree/master/0658-find-k-closest-elements) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/yash23082007/leetcode/tree/master/0205-isomorphic-strings) |
 | [0227-basic-calculator-ii](https://github.com/yash23082007/leetcode/tree/master/0227-basic-calculator-ii) |
 | [0383-ransom-note](https://github.com/yash23082007/leetcode/tree/master/0383-ransom-note) |
+| [0392-is-subsequence](https://github.com/yash23082007/leetcode/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/yash23082007/leetcode/tree/master/0402-remove-k-digits) |
 | [0412-fizz-buzz](https://github.com/yash23082007/leetcode/tree/master/0412-fizz-buzz) |
 | [0680-valid-palindrome-ii](https://github.com/yash23082007/leetcode/tree/master/0680-valid-palindrome-ii) |
@@ -372,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/yash23082007/leetcode/tree/master/0392-is-subsequence) |
 | [1025-divisor-game](https://github.com/yash23082007/leetcode/tree/master/1025-divisor-game) |
 ## Brainteaser
 |  |
