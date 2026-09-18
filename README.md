@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/yash23082007/leetcode/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/yash23082007/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/yash23082007/leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0645-set-mismatch](https://github.com/yash23082007/leetcode/tree/master/0645-set-mismatch) |
 | [0658-find-k-closest-elements](https://github.com/yash23082007/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0705-design-hashset](https://github.com/yash23082007/leetcode/tree/master/0705-design-hashset) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/yash23082007/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/yash23082007/leetcode/tree/master/0383-ransom-note) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/yash23082007/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0575-distribute-candies](https://github.com/yash23082007/leetcode/tree/master/0575-distribute-candies) |
+| [0645-set-mismatch](https://github.com/yash23082007/leetcode/tree/master/0645-set-mismatch) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/yash23082007/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0705-design-hashset](https://github.com/yash23082007/leetcode/tree/master/0705-design-hashset) |
 | [0771-jewels-and-stones](https://github.com/yash23082007/leetcode/tree/master/0771-jewels-and-stones) |
@@ -127,7 +129,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/yash23082007/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
-| [0024-swap-nodes-in-pairs](https://github.com/yash23082007/leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/yash23082007/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0203-remove-linked-list-elements](https://github.com/yash23082007/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0705-design-hashset](https://github.com/yash23082007/leetcode/tree/master/0705-design-hashset) |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/yash23082007/leetcode/tree/master/0414-third-maximum-number) |
 | [0611-valid-triangle-number](https://github.com/yash23082007/leetcode/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/yash23082007/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0645-set-mismatch](https://github.com/yash23082007/leetcode/tree/master/0645-set-mismatch) |
 | [0658-find-k-closest-elements](https://github.com/yash23082007/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0853-car-fleet](https://github.com/yash23082007/leetcode/tree/master/0853-car-fleet) |
 | [0905-sort-array-by-parity](https://github.com/yash23082007/leetcode/tree/master/0905-sort-array-by-parity) |
@@ -401,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/yash23082007/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/yash23082007/leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/yash23082007/leetcode/tree/master/0342-power-of-four) |
+| [0645-set-mismatch](https://github.com/yash23082007/leetcode/tree/master/0645-set-mismatch) |
 ## String Matching
 |  |
 | ------- |
@@ -409,7 +412,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
-| [0024-swap-nodes-in-pairs](https://github.com/yash23082007/leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0203-remove-linked-list-elements](https://github.com/yash23082007/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/yash23082007/leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/yash23082007/leetcode/tree/master/0326-power-of-three) |
