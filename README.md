@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/yash23082007/leetcode/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/yash23082007/leetcode/tree/master/0402-remove-k-digits) |
 | [0412-fizz-buzz](https://github.com/yash23082007/leetcode/tree/master/0412-fizz-buzz) |
+| [0678-valid-parenthesis-string](https://github.com/yash23082007/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/yash23082007/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0771-jewels-and-stones](https://github.com/yash23082007/leetcode/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/yash23082007/leetcode/tree/master/0796-rotate-string) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/yash23082007/leetcode/tree/master/0402-remove-k-digits) |
 | [0611-valid-triangle-number](https://github.com/yash23082007/leetcode/tree/master/0611-valid-triangle-number) |
 | [0670-maximum-swap](https://github.com/yash23082007/leetcode/tree/master/0670-maximum-swap) |
+| [0678-valid-parenthesis-string](https://github.com/yash23082007/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/yash23082007/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/yash23082007/leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1144-decrease-elements-to-make-array-zigzag](https://github.com/yash23082007/leetcode/tree/master/1144-decrease-elements-to-make-array-zigzag) |
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/yash23082007/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0227-basic-calculator-ii](https://github.com/yash23082007/leetcode/tree/master/0227-basic-calculator-ii) |
 | [0402-remove-k-digits](https://github.com/yash23082007/leetcode/tree/master/0402-remove-k-digits) |
+| [0678-valid-parenthesis-string](https://github.com/yash23082007/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0853-car-fleet](https://github.com/yash23082007/leetcode/tree/master/0853-car-fleet) |
 | [1021-remove-outermost-parentheses](https://github.com/yash23082007/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/yash23082007/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -387,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/yash23082007/leetcode/tree/master/0392-is-subsequence) |
+| [0678-valid-parenthesis-string](https://github.com/yash23082007/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1025-divisor-game](https://github.com/yash23082007/leetcode/tree/master/1025-divisor-game) |
 ## Brainteaser
 |  |
@@ -479,4 +483,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1492-the-kth-factor-of-n](https://github.com/yash23082007/leetcode/tree/master/1492-the-kth-factor-of-n) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/yash23082007/leetcode/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
