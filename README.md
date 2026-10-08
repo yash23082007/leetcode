@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/yash23082007/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0905-sort-array-by-parity](https://github.com/yash23082007/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/yash23082007/leetcode/tree/master/0922-sort-array-by-parity-ii) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/yash23082007/leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2109-adding-spaces-to-a-string](https://github.com/yash23082007/leetcode/tree/master/2109-adding-spaces-to-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/yash23082007/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/yash23082007/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/yash23082007/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/yash23082007/leetcode/tree/master/1957-delete-characters-to-make-fancy-string) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/yash23082007/leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2109-adding-spaces-to-a-string](https://github.com/yash23082007/leetcode/tree/master/2109-adding-spaces-to-a-string) |
 ## Greedy
 |  |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/yash23082007/leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1144-decrease-elements-to-make-array-zigzag](https://github.com/yash23082007/leetcode/tree/master/1144-decrease-elements-to-make-array-zigzag) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/yash23082007/leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/yash23082007/leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/yash23082007/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Binary Search
 |  |
@@ -314,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/yash23082007/leetcode/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/yash23082007/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/yash23082007/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/yash23082007/leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Sorting
 |  |
 | ------- |
@@ -495,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/yash23082007/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/yash23082007/leetcode/tree/master/0856-score-of-parentheses) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/yash23082007/leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Memoization
 |  |
 | ------- |
