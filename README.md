@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/yash23082007/leetcode/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/yash23082007/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0463-island-perimeter](https://github.com/yash23082007/leetcode/tree/master/0463-island-perimeter) |
+| [0539-minimum-time-difference](https://github.com/yash23082007/leetcode/tree/master/0539-minimum-time-difference) |
 | [0575-distribute-candies](https://github.com/yash23082007/leetcode/tree/master/0575-distribute-candies) |
 | [0611-valid-triangle-number](https://github.com/yash23082007/leetcode/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/yash23082007/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/yash23082007/leetcode/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/yash23082007/leetcode/tree/master/0402-remove-k-digits) |
 | [0412-fizz-buzz](https://github.com/yash23082007/leetcode/tree/master/0412-fizz-buzz) |
+| [0539-minimum-time-difference](https://github.com/yash23082007/leetcode/tree/master/0539-minimum-time-difference) |
 | [0678-valid-parenthesis-string](https://github.com/yash23082007/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/yash23082007/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0771-jewels-and-stones](https://github.com/yash23082007/leetcode/tree/master/0771-jewels-and-stones) |
@@ -288,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/yash23082007/leetcode/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/yash23082007/leetcode/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/yash23082007/leetcode/tree/master/0509-fibonacci-number) |
+| [0539-minimum-time-difference](https://github.com/yash23082007/leetcode/tree/master/0539-minimum-time-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/yash23082007/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0670-maximum-swap](https://github.com/yash23082007/leetcode/tree/master/0670-maximum-swap) |
 | [0754-reach-a-number](https://github.com/yash23082007/leetcode/tree/master/0754-reach-a-number) |
@@ -330,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0324-wiggle-sort-ii](https://github.com/yash23082007/leetcode/tree/master/0324-wiggle-sort-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/yash23082007/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/yash23082007/leetcode/tree/master/0414-third-maximum-number) |
+| [0539-minimum-time-difference](https://github.com/yash23082007/leetcode/tree/master/0539-minimum-time-difference) |
 | [0611-valid-triangle-number](https://github.com/yash23082007/leetcode/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/yash23082007/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/yash23082007/leetcode/tree/master/0645-set-mismatch) |
