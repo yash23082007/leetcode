@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/yash23082007/leetcode/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/yash23082007/leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/yash23082007/leetcode/tree/master/0049-group-anagrams) |
+| [0059-spiral-matrix-ii](https://github.com/yash23082007/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/yash23082007/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/yash23082007/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/yash23082007/leetcode/tree/master/0128-longest-consecutive-sequence) |
@@ -361,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/yash23082007/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/yash23082007/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/yash23082007/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0289-game-of-life](https://github.com/yash23082007/leetcode/tree/master/0289-game-of-life) |
@@ -389,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/yash23082007/leetcode/tree/master/0043-multiply-strings) |
+| [0059-spiral-matrix-ii](https://github.com/yash23082007/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0289-game-of-life](https://github.com/yash23082007/leetcode/tree/master/0289-game-of-life) |
 | [0412-fizz-buzz](https://github.com/yash23082007/leetcode/tree/master/0412-fizz-buzz) |
 | [1260-shift-2d-grid](https://github.com/yash23082007/leetcode/tree/master/1260-shift-2d-grid) |
