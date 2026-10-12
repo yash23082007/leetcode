@@ -279,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/yash23082007/leetcode/tree/master/0043-multiply-strings) |
+| [0062-unique-paths](https://github.com/yash23082007/leetcode/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/yash23082007/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/yash23082007/leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/yash23082007/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -405,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/yash23082007/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/yash23082007/leetcode/tree/master/0070-climbing-stairs) |
 | [0392-is-subsequence](https://github.com/yash23082007/leetcode/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/yash23082007/leetcode/tree/master/0509-fibonacci-number) |
@@ -514,4 +516,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/yash23082007/leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/yash23082007/leetcode/tree/master/0509-fibonacci-number) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/yash23082007/leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
