@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/yash23082007/leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yash23082007/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/yash23082007/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0148-sort-list](https://github.com/yash23082007/leetcode/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/yash23082007/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yash23082007/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/yash23082007/leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/yash23082007/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/yash23082007/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0148-sort-list](https://github.com/yash23082007/leetcode/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/yash23082007/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0705-design-hashset](https://github.com/yash23082007/leetcode/tree/master/0705-design-hashset) |
 ## Design
@@ -333,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/yash23082007/leetcode/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/yash23082007/leetcode/tree/master/0049-group-anagrams) |
+| [0148-sort-list](https://github.com/yash23082007/leetcode/tree/master/0148-sort-list) |
 | [0179-largest-number](https://github.com/yash23082007/leetcode/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/yash23082007/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/yash23082007/leetcode/tree/master/0217-contains-duplicate) |
@@ -387,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/yash23082007/leetcode/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/yash23082007/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/yash23082007/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0324-wiggle-sort-ii](https://github.com/yash23082007/leetcode/tree/master/0324-wiggle-sort-ii) |
@@ -526,4 +530,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/yash23082007/leetcode/tree/master/0062-unique-paths) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/yash23082007/leetcode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
