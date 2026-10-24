@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/yash23082007/leetcode/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/yash23082007/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/yash23082007/leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
+| [1019-next-greater-node-in-linked-list](https://github.com/yash23082007/leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1144-decrease-elements-to-make-array-zigzag](https://github.com/yash23082007/leetcode/tree/master/1144-decrease-elements-to-make-array-zigzag) |
 | [1207-unique-number-of-occurrences](https://github.com/yash23082007/leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/yash23082007/leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/yash23082007/leetcode/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/yash23082007/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0705-design-hashset](https://github.com/yash23082007/leetcode/tree/master/0705-design-hashset) |
+| [1019-next-greater-node-in-linked-list](https://github.com/yash23082007/leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 ## Design
 |  |
 | ------- |
@@ -343,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/yash23082007/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0853-car-fleet](https://github.com/yash23082007/leetcode/tree/master/0853-car-fleet) |
 | [0856-score-of-parentheses](https://github.com/yash23082007/leetcode/tree/master/0856-score-of-parentheses) |
+| [1019-next-greater-node-in-linked-list](https://github.com/yash23082007/leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/yash23082007/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/yash23082007/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/yash23082007/leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -386,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0402-remove-k-digits](https://github.com/yash23082007/leetcode/tree/master/0402-remove-k-digits) |
 | [0853-car-fleet](https://github.com/yash23082007/leetcode/tree/master/0853-car-fleet) |
+| [1019-next-greater-node-in-linked-list](https://github.com/yash23082007/leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 ## Matrix
 |  |
 | ------- |
