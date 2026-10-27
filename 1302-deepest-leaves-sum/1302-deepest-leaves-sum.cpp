@@ -1,27 +1,32 @@
 class Solution {
 public:
-    int deepestLeavesSum(TreeNode* root) {
-        queue<TreeNode*> q;
-        q.push(root);
-        int sum = 0;
+    int maxDepth = 0;
+    int sum = 0;
 
-        while (!q.empty()) {
-            int n = q.size();
-            sum = 0;
+    void findDepth(TreeNode* root, int depth) {
+        if (!root) return;
 
-            for (int i = 0; i < n; i++) {
-                TreeNode* node = q.front();
-                q.pop();
+        maxDepth = max(maxDepth, depth);
 
-                sum += node->val;
+        findDepth(root->left, depth + 1);
+        findDepth(root->right, depth + 1);
+    }
 
-                if (node->left)
-                    q.push(node->left);
+    void dfs(TreeNode* root, int depth) {
+        if (!root) return;
 
-                if (node->right)
-                    q.push(node->right);
-            }
+        if (depth == maxDepth) {
+            sum += root->val;
+            return;
         }
+
+        dfs(root->left, depth + 1);
+        dfs(root->right, depth + 1);
+    }
+
+    int deepestLeavesSum(TreeNode* root) {
+        findDepth(root, 0);
+        dfs(root, 0);
 
         return sum;
     }
