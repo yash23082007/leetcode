@@ -30,6 +30,6 @@ public:
             j--;
         }
 
-        nodes[i]->next = nullptr;
+         nodes[i]->next = nullptr;//terminate ist
     }
 };
