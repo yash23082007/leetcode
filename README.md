@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/yash23082007/leetcode/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/yash23082007/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/yash23082007/leetcode/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/yash23082007/leetcode/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/yash23082007/leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/yash23082007/leetcode/tree/master/0049-group-anagrams) |
 | [0059-spiral-matrix-ii](https://github.com/yash23082007/leetcode/tree/master/0059-spiral-matrix-ii) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/yash23082007/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0036-valid-sudoku](https://github.com/yash23082007/leetcode/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/yash23082007/leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/yash23082007/leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/yash23082007/leetcode/tree/master/0073-set-matrix-zeroes) |
@@ -405,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/yash23082007/leetcode/tree/master/0036-valid-sudoku) |
 | [0059-spiral-matrix-ii](https://github.com/yash23082007/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/yash23082007/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/yash23082007/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
