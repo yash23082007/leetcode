@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2733-neither-minimum-nor-maximum](https://github.com/yash23082007/leetcode/tree/master/2733-neither-minimum-nor-maximum) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/yash23082007/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/yash23082007/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3364-minimum-positive-sum-subarray](https://github.com/yash23082007/leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/yash23082007/leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/yash23082007/leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/yash23082007/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/yash23082007/leetcode/tree/master/0658-find-k-closest-elements) |
 | [1004-max-consecutive-ones-iii](https://github.com/yash23082007/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/yash23082007/leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [3364-minimum-positive-sum-subarray](https://github.com/yash23082007/leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 ## Math
 |  |
 | ------- |
@@ -547,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/yash23082007/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/yash23082007/leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/yash23082007/leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [3364-minimum-positive-sum-subarray](https://github.com/yash23082007/leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3903-smallest-stable-index-i](https://github.com/yash23082007/leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Union-Find
 |  |
