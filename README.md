@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/yash23082007/leetcode/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/yash23082007/leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/yash23082007/leetcode/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/yash23082007/leetcode/tree/master/0053-maximum-subarray) |
 | [0059-spiral-matrix-ii](https://github.com/yash23082007/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/yash23082007/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/yash23082007/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -443,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/yash23082007/leetcode/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/yash23082007/leetcode/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/yash23082007/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/yash23082007/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
@@ -470,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/yash23082007/leetcode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/yash23082007/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/yash23082007/leetcode/tree/master/0070-climbing-stairs) |
 | [0213-house-robber-ii](https://github.com/yash23082007/leetcode/tree/master/0213-house-robber-ii) |
