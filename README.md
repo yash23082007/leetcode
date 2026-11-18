@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1630-arithmetic-subarrays](https://github.com/yash23082007/leetcode/tree/master/1630-arithmetic-subarrays) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/yash23082007/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/yash23082007/leetcode/tree/master/1672-richest-customer-wealth) |
+| [1706-where-will-the-ball-fall](https://github.com/yash23082007/leetcode/tree/master/1706-where-will-the-ball-fall) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/yash23082007/leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/yash23082007/leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1901-find-a-peak-element-ii](https://github.com/yash23082007/leetcode/tree/master/1901-find-a-peak-element-ii) |
@@ -441,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/yash23082007/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/yash23082007/leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/yash23082007/leetcode/tree/master/1672-richest-customer-wealth) |
+| [1706-where-will-the-ball-fall](https://github.com/yash23082007/leetcode/tree/master/1706-where-will-the-ball-fall) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/yash23082007/leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1901-find-a-peak-element-ii](https://github.com/yash23082007/leetcode/tree/master/1901-find-a-peak-element-ii) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/yash23082007/leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
@@ -466,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/yash23082007/leetcode/tree/master/0289-game-of-life) |
 | [0412-fizz-buzz](https://github.com/yash23082007/leetcode/tree/master/0412-fizz-buzz) |
 | [1260-shift-2d-grid](https://github.com/yash23082007/leetcode/tree/master/1260-shift-2d-grid) |
+| [1706-where-will-the-ball-fall](https://github.com/yash23082007/leetcode/tree/master/1706-where-will-the-ball-fall) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/yash23082007/leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/yash23082007/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2079-watering-plants](https://github.com/yash23082007/leetcode/tree/master/2079-watering-plants) |
