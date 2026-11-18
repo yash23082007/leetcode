@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1957-delete-characters-to-make-fancy-string](https://github.com/yash23082007/leetcode/tree/master/1957-delete-characters-to-make-fancy-string) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/yash23082007/leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2109-adding-spaces-to-a-string](https://github.com/yash23082007/leetcode/tree/master/2109-adding-spaces-to-a-string) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/yash23082007/leetcode/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 ## Greedy
 |  |
 | ------- |
