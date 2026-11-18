@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/yash23082007/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/yash23082007/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3364-minimum-positive-sum-subarray](https://github.com/yash23082007/leetcode/tree/master/3364-minimum-positive-sum-subarray) |
+| [3439-reschedule-meetings-for-maximum-free-time-i](https://github.com/yash23082007/leetcode/tree/master/3439-reschedule-meetings-for-maximum-free-time-i) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/yash23082007/leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/yash23082007/leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/yash23082007/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/yash23082007/leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/yash23082007/leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/yash23082007/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [3439-reschedule-meetings-for-maximum-free-time-i](https://github.com/yash23082007/leetcode/tree/master/3439-reschedule-meetings-for-maximum-free-time-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -323,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/yash23082007/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/yash23082007/leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [3364-minimum-positive-sum-subarray](https://github.com/yash23082007/leetcode/tree/master/3364-minimum-positive-sum-subarray) |
+| [3439-reschedule-meetings-for-maximum-free-time-i](https://github.com/yash23082007/leetcode/tree/master/3439-reschedule-meetings-for-maximum-free-time-i) |
 ## Math
 |  |
 | ------- |
