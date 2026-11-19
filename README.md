@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3364-minimum-positive-sum-subarray](https://github.com/yash23082007/leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3439-reschedule-meetings-for-maximum-free-time-i](https://github.com/yash23082007/leetcode/tree/master/3439-reschedule-meetings-for-maximum-free-time-i) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/yash23082007/leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3693-climbing-stairs-ii](https://github.com/yash23082007/leetcode/tree/master/3693-climbing-stairs-ii) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/yash23082007/leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/yash23082007/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/yash23082007/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -493,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/yash23082007/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1025-divisor-game](https://github.com/yash23082007/leetcode/tree/master/1025-divisor-game) |
 | [2320-count-number-of-ways-to-place-houses](https://github.com/yash23082007/leetcode/tree/master/2320-count-number-of-ways-to-place-houses) |
+| [3693-climbing-stairs-ii](https://github.com/yash23082007/leetcode/tree/master/3693-climbing-stairs-ii) |
 ## Brainteaser
 |  |
 | ------- |
