@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/yash23082007/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/yash23082007/leetcode/tree/master/2109-adding-spaces-to-a-string) |
 | [2303-calculate-amount-paid-in-taxes](https://github.com/yash23082007/leetcode/tree/master/2303-calculate-amount-paid-in-taxes) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/yash23082007/leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2643-row-with-maximum-ones](https://github.com/yash23082007/leetcode/tree/master/2643-row-with-maximum-ones) |
 | [2733-neither-minimum-nor-maximum](https://github.com/yash23082007/leetcode/tree/master/2733-neither-minimum-nor-maximum) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/yash23082007/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/yash23082007/leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/yash23082007/leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/yash23082007/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/yash23082007/leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3439-reschedule-meetings-for-maximum-free-time-i](https://github.com/yash23082007/leetcode/tree/master/3439-reschedule-meetings-for-maximum-free-time-i) |
 ## Binary Search
 |  |
@@ -416,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1552-magnetic-force-between-two-balls](https://github.com/yash23082007/leetcode/tree/master/1552-magnetic-force-between-two-balls) |
 | [1630-arithmetic-subarrays](https://github.com/yash23082007/leetcode/tree/master/1630-arithmetic-subarrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/yash23082007/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/yash23082007/leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2733-neither-minimum-nor-maximum](https://github.com/yash23082007/leetcode/tree/master/2733-neither-minimum-nor-maximum) |
 | [3536-maximum-product-of-two-digits](https://github.com/yash23082007/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/yash23082007/leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
