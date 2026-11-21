@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2733-neither-minimum-nor-maximum](https://github.com/yash23082007/leetcode/tree/master/2733-neither-minimum-nor-maximum) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/yash23082007/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/yash23082007/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/yash23082007/leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3364-minimum-positive-sum-subarray](https://github.com/yash23082007/leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3439-reschedule-meetings-for-maximum-free-time-i](https://github.com/yash23082007/leetcode/tree/master/3439-reschedule-meetings-for-maximum-free-time-i) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/yash23082007/leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/yash23082007/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1630-arithmetic-subarrays](https://github.com/yash23082007/leetcode/tree/master/1630-arithmetic-subarrays) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/yash23082007/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/yash23082007/leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/yash23082007/leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Linked List
 |  |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/yash23082007/leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2109-adding-spaces-to-a-string](https://github.com/yash23082007/leetcode/tree/master/2109-adding-spaces-to-a-string) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/yash23082007/leetcode/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/yash23082007/leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Greedy
 |  |
 | ------- |
@@ -274,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1302-deepest-leaves-sum](https://github.com/yash23082007/leetcode/tree/master/1302-deepest-leaves-sum) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/yash23082007/leetcode/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/yash23082007/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/yash23082007/leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -290,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1325-delete-leaves-with-a-given-value](https://github.com/yash23082007/leetcode/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/yash23082007/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/yash23082007/leetcode/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/yash23082007/leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Breadth-First Search
 |  |
 | ------- |
